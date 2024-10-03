@@ -1,2 +1,5 @@
 # zip files
 *.zip
+
+# tuning files
+airline_satisfaction/*
